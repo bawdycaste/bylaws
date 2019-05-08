@@ -64,18 +64,16 @@
 4.5.2. Once money has been set aside for a department, that department has the authority to spend that money on its designated purpose without further approval.
 4.6. The Financial Secretary shall be kept appraised of all expenditures made by departments.
 4.7. The permanent standing departments of this cast shall be:
-4.7.1. Actoring--Includes anyone who performs on stage.This group is responsible for decisions about performance matters between the 20th c Fox Logo and the end credits.
-4.7.2. Tech Crew--The people who make the show actually happen. This group is responsible for the technical side of the show, including props, cues, lights, and working with theaters on technical matters. Don’t piss them off.
-4.7.3. Security--The people who keep us all safe.This group is responsible for all decisions related to the safety of the cast, the audience and the theater.
-4.7.4. Sales-- n. Mongers, the people who hawk our wares.This group is responsible for making sure we have cool merch and survival kits to sell at shows, and for coordinating with the Financial Secretary on sales.
-4.7.5. P.E.N.I.S.-- (Stands for Promotion, Engagement, Networking, Internet and Social-media). This group is like a marketing team.Their main job is to make sure the show is fun for both the audience and the cast.Theycome up with ways to promote the show, get new audience members in the seats, keep our regular audience coming back, and they maintain our internet and social media presence.
-4.7.6. Pre-shows--This group includes all our Emcees, along with anyone who is interested in making the beginning of the show (from the line up to the start of the movie) more fun for the audience. They come up with and choreograph new pre-show routines too.
-4.7.7. The department structure may be amended as needed by a simple majority vote at membership meetings. This constitutes a modification of these bylaws and is the only modification of the bylaws that doesn’t require a two-thirds vote.
-4.8. Ad hoc committees may be formed by the Directors or by cast meetings.Ad hoc committees are temporary committees with a narrow charge (e.g. planning additional shadow-casts, discipline and dismissal processes)
-4.8.1. Ad hoc committees shall dissolve when their purpose is completed.
-4.8.2. Membership and/or leadership in an ad hoc committee is not a cast officer position.
-4.8.3. Ad-hoc committees shall define their own leadership. If necessary, they may elect a leader in accordance with 4.4.
-4.8.4. No reasonable request by a member to join an ad hoc committee shall be refused.
+4.7.1. Actoring -- Includes anyone who performs on stage, and our preshow. 
+4.7.2. Tech Crew -- The people who make the show actually happen. This group is responsible for the technical side of the show, including props, cues, lights, and working with theaters on technical matters. Don’t piss them off.
+4.7.3. P.E.N.I.S.-- (Stands for Promotion, Engagement, Networking, Internet and Social-media). This group is like a marketing team.Their main job is to make sure the show is fun for both the audience and the cast.Theycome up with ways to promote the show, get new audience members in the seats, keep our regular audience coming back, and they maintain our internet and social media presence.
+4.7.4 Ushers -- everybody at the show who isn't performing or doing tech crew. Encompasses the people selling our merch, controlling the crowds, interacting with the audience, and keeping us safe. 
+4.8. The department structure may be amended as needed by a simple majority vote at membership meetings. This constitutes a modification of these bylaws and is the only modification of the bylaws that doesn’t require a two-thirds vote.
+4.9. Ad hoc committees may be formed by the Directors or by cast meetings.Ad hoc committees are temporary committees with a narrow charge (e.g. planning additional shadow-casts, discipline and dismissal processes)
+4.9.1. Ad hoc committees shall dissolve when their purpose is completed.
+4.9.2. Membership and/or leadership in an ad hoc committee is not a cast officer position.
+4.9.3. Ad-hoc committees shall define their own leadership. If necessary, they may elect a leader in accordance with 4.4.
+4.9.4. No reasonable request by a member to join an ad hoc committee shall be refused.
 5. Cast Structure: Officers
 5.1. The operation of the cast and all decisions not made atMembership Meetings or by decision of relevant cast departments (in accordance with article 4) shall be carried out by cast Officers, according to the duties specified in this article.
 5.2. Cast Officers are elected from the current membership:
@@ -84,10 +82,8 @@
 5.2.3. Heads of standing departments, elected by the cast at large to 2 year terms.
 5.2.3.1. Head(s) of Acting
 5.2.3.2. Head(s) of Tech
-5.2.3.3. Head(s) of Security
-5.2.3.4. Head(s) of Sales
-5.2.3.5. Head(s) of P.E.N.I.S.
-5.2.3.6. Head(s) of Preshows 
+5.2.3.3. Head(s) of P.E.N.I.S.
+5.2.3.4. Head(s) of Ushers 
 5.2.4. Elections will be held at membership meetings (section 6). Any qualified candidate may nominate themselves for an elected position (5.3). The candidate with the most votes for a given position will be elected.
 5.2.4.1. In the event of a tie, a runoff vote will be held with the tied candidates.
 5.2.4.2. Elections for Director and Financial Secretary shall be held in the February membership meeting. Elections for Heads of standing departments shall be held in the November membership meeting.
