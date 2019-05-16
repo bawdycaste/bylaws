@@ -90,12 +90,13 @@
 5.2.3.6. Head(s) of Preshows 
 5.2.4. Elections will be held at membership meetings (section 6). Any qualified candidate may nominate themselves for an elected position (5.3). The candidate with the most votes for a given position will be elected.
 5.2.4.1. In the event of a tie, a runoff vote will be held with the tied candidates.
-5.2.4.2. Elections for Director and Financial Secretary shall be held in the February membership meeting. Elections for Heads of standing departments shall be held in the November membership meeting.
-5.2.4.3. Before each election, the Directors shall appoint an active cast member to serve as Election Manager.
-5.2.4.3.1. The Election Manager shall be responsible for conducting the election, ensuring a fair and accurate vote is collected, and reporting the results to the cast at large.
-5.2.4.3.2. The Election Manager may not run in an election they are managing.
-5.2.4.3.3. Any cast member may decline an appointment as Election Manager.
-5.2.4.3.4. The position of Election Manager shall dissolve once the election is concluded and the results reported.
+5.2.4.2. In elections where only one candidate exists for a position, both a "yes" and "no" option will be available. 
+5.2.4.3. Elections for Director and Financial Secretary shall be held in the February membership meeting. Elections for Heads of standing departments shall be held in the November membership meeting.
+5.2.4.4. Before each election, the Directors shall appoint an active cast member to serve as Election Manager.
+5.2.4.4.1. The Election Manager shall be responsible for conducting the election, ensuring a fair and accurate vote is collected, and reporting the results to the cast at large.
+5.2.4.4.2. The Election Manager may not run in an election they are managing.
+5.2.4.4.3. Any cast member may decline an appointment as Election Manager.
+5.2.4.4.4. The position of Election Manager shall dissolve once the election is concluded and the results reported.
 5.3. Qualifications:
 5.3.1. The Directors shall each have been a member for no less than 2 years.
 5.3.2. The Financial Secretary shall have been a member for no less than 1 year.
