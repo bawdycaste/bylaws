@@ -88,7 +88,7 @@
 5.2.3.4. Head(s) of Sales
 5.2.3.5. Head(s) of P.E.N.I.S.
 5.2.3.6. Head(s) of Preshows 
-5.2.4. Elections will be held at membership meetings (section 6). Any qualified candidate may nominate themselves for an elected position (5.3). The candidate with the most votes for a given position will be elected.
+5.2.4. Elections will be held at membership meetings (section 6). Any qualified candidate may nominate themselves for an elected position (5.3). Candidates must receive votes totallying at least one third of possible votes plus one (1/3 +1),  with the candidate having most votes past that post for a given position being elected.
 5.2.4.1. In the event of a tie, a runoff vote will be held with the tied candidates.
 5.2.4.2. Elections for Director and Financial Secretary shall be held in the February membership meeting. Elections for Heads of standing departments shall be held in the November membership meeting.
 5.2.4.3. Before each election, the Directors shall appoint an active cast member to serve as Election Manager.
@@ -157,7 +157,7 @@
 6.5.3. Voting:
 6.5.3.1. Voting shall be conducted by majority vote by those present in a meeting.
 6.5.3.2. Voting shall be conducted by a show of hands, unless the facilitator deems it appropriate to conduct the vote in some other manner (such as a secret ballot or online cast vote).
-6.5.3.3. Votes to amend the bylaws must pass by two thirds vote of those present.
+6.5.3.3. Votes to amend the bylaws must pass by two thirds vote of those present. 
 6.5.4. Each meeting shall include a report on cast finances made by the Financial Secretary or their designee.
 6.5.5. Each meeting shall discuss and approve the proposed agenda, and any amendments or additions.
 6.5.6. The date of the next occurring membership meeting shall be decided within 7 days of the previous one.
